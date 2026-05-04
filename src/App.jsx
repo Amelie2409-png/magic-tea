@@ -425,7 +425,7 @@ export default function App() {
             ))}
           </div>
         )}
-        <a href="https://www.ubereats.com" target="_blank" rel="noopener noreferrer"
+        <a href="https://www.ubereats.com/ch-fr/store/magic-tea/u4LS1txOVhqnPZNdA4U78w" target="_blank" rel="noopener noreferrer"
           className="btn-r" style={{ padding: mob ? "9px 18px" : "10px 24px", borderRadius: 11, fontSize: 13, textDecoration: "none", display: "flex", alignItems: "center", gap: 7 }}>
           🛵{!mob && " UberEats"}
         </a>
@@ -469,7 +469,7 @@ export default function App() {
           </p>
 
           <div className="ed hbtns" style={{ display: "flex", gap: 14, marginBottom: 44 }}>
-            <a href="https://www.ubereats.com" target="_blank" rel="noopener noreferrer"
+            <a href="https://www.ubereats.com/ch-fr/store/magic-tea/u4LS1txOVhqnPZNdA4U78w" target="_blank" rel="noopener noreferrer"
               className="btn-r" style={{ padding: "16px 36px", fontSize: 15, borderRadius: 13, textDecoration: "none", display: "flex", alignItems: "center", gap: 9 }}>
               Commander sur UberEats &nbsp;→
             </a>
@@ -879,7 +879,7 @@ export default function App() {
               <a href="tel:0765498668" className="btn-d" style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 9, padding: 17, borderRadius: 13, textDecoration: "none", fontSize: 15 }}>
                 📞 &nbsp;076 549 86 68
               </a>
-              <a href="https://www.ubereats.com" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.ubereats.com/ch-fr/store/magic-tea/u4LS1txOVhqnPZNdA4U78w" target="_blank" rel="noopener noreferrer"
                 className="btn-r" style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 9, padding: 16, borderRadius: 13, textDecoration: "none", fontSize: 14.5, fontWeight: 600 }}>
                 🛵 Commander sur UberEats
               </a>
@@ -965,7 +965,7 @@ export default function App() {
             onMouseLeave={e => { e.currentTarget.style.background = "rgba(255,183,197,.12)"; }}>
             📸 Instagram
           </a>
-          <a href="https://www.ubereats.com" target="_blank" rel="noopener noreferrer"
+          <a href="https://www.ubereats.com/ch-fr/store/magic-tea/u4LS1txOVhqnPZNdA4U78w" target="_blank" rel="noopener noreferrer"
             style={{ display: "inline-flex", alignItems: "center", gap: 7, background: "rgba(163,177,138,.12)", color: MAT, border: "1px solid rgba(163,177,138,.24)", padding: "9px 20px", borderRadius: 11, textDecoration: "none", ...INT, fontSize: 13, fontWeight: 500, transition: "background .22s ease" }}
             onMouseEnter={e => { e.currentTarget.style.background = "rgba(163,177,138,.24)"; }}
             onMouseLeave={e => { e.currentTarget.style.background = "rgba(163,177,138,.12)"; }}>
