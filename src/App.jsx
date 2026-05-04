@@ -842,7 +842,7 @@ export default function App() {
                 <div style={{ position: "relative", zIndex: 1 }}>
                   <h3 style={{ ...PF, fontSize: 25, fontWeight: 600, color: BR, marginBottom: 4 }}>Bd de Pérolles 79</h3>
                   <p style={{ ...PF, fontSize: 20, fontWeight: 400, color: "rgba(60,47,47,.64)", marginBottom: 20, fontStyle: "italic" }}>1700 Fribourg</p>
-                  <a href="https://www.google.com/maps/place/Magic+Tea+-+Bubble+Tea+%26+Sushi/@46.7951257,7.1564422,17z/"
+                  <a href="https://maps.app.goo.gl/XZWP8sUbfVLX1tDe6"
                     target="_blank" rel="noopener noreferrer"
                     className="btn-d" style={{ display: "inline-flex", alignItems: "center", gap: 9, padding: "12px 26px", fontSize: 14, borderRadius: 11, textDecoration: "none" }}>
                     Itinéraire &nbsp;↗
@@ -889,7 +889,7 @@ export default function App() {
             <div className="sr d2">
               <div className="mapf" style={{ height: 540 }}>
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m13!1d2723.6335!2d7.1538673!3d46.7951293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478e69c5c10ec7a7%3A0x11118f24b26aa66!2sMagic%20Tea%20-%20Bubble%20Tea%20%26%20Sushi!5e0!3m2!1sfr!2sch!4v1714680000000!5m2!1sfr!2sch"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2723.6335!2d7.1538673!3d46.7951257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478e69c5c10ec7a7%3A0x11118f24b26aa66!2sMagic%20Tea%20-%20Bubble%20Tea%20%26%20Sushi!5e0!3m2!1sfr!2sch!4v1748000000000!5m2!1sfr!2sch"
                   width="100%" height="100%"
                   style={{ border: 0, display: "block", borderRadius: 18 }}
                   allowFullScreen=""
@@ -959,7 +959,7 @@ export default function App() {
         </div>
         {/* Instagram + UberEats */}
         <div style={{ display: "flex", justifyContent: "center", gap: 12, marginBottom: 30 }}>
-          <a href="https://www.instagram.com/magictea.fribourg" target="_blank" rel="noopener noreferrer"
+          <a href="https://www.instagram.com/magicteafribourg" target="_blank" rel="noopener noreferrer"
             style={{ display: "inline-flex", alignItems: "center", gap: 7, background: "rgba(255,183,197,.12)", color: PNK, border: "1px solid rgba(255,183,197,.24)", padding: "9px 20px", borderRadius: 11, textDecoration: "none", ...INT, fontSize: 13, fontWeight: 500, transition: "background .22s ease" }}
             onMouseEnter={e => { e.currentTarget.style.background = "rgba(255,183,197,.24)"; }}
             onMouseLeave={e => { e.currentTarget.style.background = "rgba(255,183,197,.12)"; }}>
